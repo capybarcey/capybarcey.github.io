@@ -1,0 +1,34 @@
+* {
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    background-image: url(/bg.jpg);
+}
+img {
+    align-items: center;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    text-align: center;
+    font-size: large;
+    color: #000000;
+    margin: 0;
+}
+.nxt {
+    width: 100%;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
